@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-## Cute one ~
+## Cute one ~ you too（ΦωΦ）
 ![Neko Count~](https://count.getloli.com/get/@nekocyan?theme=rule34)
 
 <!--
