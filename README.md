@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+## Cute one ~
+![Neko Count~](https://count.getloli.com/get/@nekocyan?theme=rule34)
+
 <!--
 **NekoCyan/NekoCyan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
