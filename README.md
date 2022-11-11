@@ -4,7 +4,7 @@
 ![Neko Count~](https://count.getloli.com/get/@nekocyan?theme=rule34)
 
 ## Random Neko Stuff ~
-<img src="https://nekoapi.onrender.com/api/neko" alt="Neko" width="50%" height="50%">
+![Neko IMage](https://nekoapi.onrender.com/api/neko)
 
 <!--
 **NekoCyan/NekoCyan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
