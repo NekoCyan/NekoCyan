@@ -14,6 +14,9 @@ You can get it from here [(Neko API)](https://nekoapi.onrender.com/api/neko) for
 <br>
 Main API powered by [nekos.life](https://nekos.life).
 
+## Contributes / Commits.
+![github contribution grid snake animation](https://raw.githubusercontent.com/NekoCyan/NekoCyan/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)![github contribution grid snake animation](https://raw.githubusercontent.com/NekoCyan/NekoCyan/output/github-contribution-grid-snake.svg#gh-light-mode-only)
+
 <!--
 **NekoCyan/NekoCyan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
