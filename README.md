@@ -7,8 +7,12 @@
 ![Neko Count~](https://count.getloli.com/get/@nekocyan?theme=rule34)
 
 ## Random Neko Stuff ~
-![Neko IMage](https://nekoapi.onrender.com/api/neko)
-(I'll fix it later e.e)
+<img src="https://nekoapi.onrender.com/api/neko" alt="Neko Image">
+<!--![Neko IMage](https://nekoapi.onrender.com/api/neko) -->
+
+You can get it from here [(Neko API)](https://nekoapi.onrender.com/api/neko) for "Readme".
+<br>
+Main API powered by [nekos.life](https://nekos.life).
 
 <!--
 **NekoCyan/NekoCyan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
