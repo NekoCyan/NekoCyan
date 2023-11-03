@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Hi 👋, I'm Neko Cyan.</h1>
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=3ED3F7&background=FF000000&center=true&width=435&lines=3rd+Year+University+at+DNTU;My+Discord%3A+Neko+Cyan%236998.;Ehe+~"></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=3ED3F7&background=FF000000&center=true&width=435&lines=3rd+Year+University+at+DNTU;My+Discord%3A+@nekocyan;Ehe+~"></a>
 </div>
 
 ## Cute one ~ you too（ΦωΦ）
