@@ -7,10 +7,10 @@
 ![Neko Count~](https://count.getloli.com/get/@nekocyan?theme=rule34)
 
 ## Random Neko Stuff ~
-<img src="https://nekoapi.onrender.com/api/neko" alt="Neko Image">
+<img src="https://nekoapi-07fx.onrender.com/api/neko" alt="Neko Image">
 <!--![Neko IMage](https://nekoapi.onrender.com/api/neko) -->
 
-You can get it from here [(Neko API)](https://nekoapi.onrender.com/api/neko) for "Readme".
+You can get it from here [https://nekoapi-07fx.onrender.com/api/neko](https://nekoapi-07fx.onrender.com/api/neko) for "Readme".
 <br>
 Main API powered by [nekos.life](https://nekos.life).
 
